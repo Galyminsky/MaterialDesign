@@ -4,4 +4,6 @@
     <string name="shoplist">ShopList</string>
     <string name="delivery">Delivery</string>
     <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="help">Help</string>
 </resources>
